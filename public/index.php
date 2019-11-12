@@ -2,7 +2,7 @@
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetPageProperty("keywords", "Тест");
 $APPLICATION->SetPageProperty("description", "Тест");
-$APPLICATION->SetTitle("Тестовое задание Роспартнер");
+$APPLICATION->SetTitle("Тестовое задание");
 ?>
 
 
